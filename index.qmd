@@ -1,6 +1,7 @@
 ---
 title: "Adrien Fillon"
 image: profil2.jpg
+comments: false
 about: 
   template: trestles
   image-shape: rounded
@@ -29,18 +30,23 @@ about:
       href: https://linktr.ee/adrienfillon
       icon: tree
 ---
+
 # Hi There
+
 I am Adrien, French researcher in Meta-science. I have a background in applied social psychology and expertise in conducting litterature review and meta-analysis. Besides my work as a researcher, I am also the host of the podcast ["science of doing science"](https://anchor.fm/scienceofdoingscience), a podcast dedicated to meta-science. I have a french Instagram account and newsletter where I talk about news in psychology. Hope you enjoy!
 
----
+------------------------------------------------------------------------
+
 # Education
-2019 – 2022 **Ph.D. in applied social psychology**: Aix-Marseille University (France)
 
-2016 – 2018 **MS in applied social psychology**: Paris Nanterre (France)
+2019 -- 2022 **Ph.D. in applied social psychology**: Aix-Marseille University (France)
 
-2013 – 2017 **BS in psychology**: Paris Nanterre (France)
+2016 -- 2018 **MS in applied social psychology**: Paris Nanterre (France)
+
+2013 -- 2017 **BS in psychology**: Paris Nanterre (France)
 
 # Experience
+
 2022 - 2024 • **Postdoctoral fellow** at [SInnoPSis](https://www.ucy.ac.cy/sinnopsis/) (Cyprus)
 
 2019 - 2022 • **Pedagogical engineer and trainer** in a training center: Orsys
@@ -54,4 +60,3 @@ I am Adrien, French researcher in Meta-science. I have a background in applied s
 2014 - 2020 • Pedagogical support in psychology in the management coaching company Alsynea
 
 2014 - 2015 • Traineeship in the LAPPS (Parisian laboratory of social psychology) Statistical treatment of political psychological data, Paris Nanterre (70h)
-
