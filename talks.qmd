@@ -1,0 +1,51 @@
+---
+title: "Talks"
+---
+
+# In English
+
+## Improve the quality of evidence synthesis in social sciences
+
+{{< video https://youtu.be/PGxa2x5e34Y >}}
+
+## How to conduct a reproducible meta-analysis (french subtitle)
+
+{{< video https://www.youtube.com/watch?v=_KgFZhhysG4&t=1s >}}
+
+## Open science and joining the mass replications and meta collaboration experience
+
+for [Gilad Feldman](https://mgto.org/core-team/)
+
+{{< video https://youtu.be/Hku3B1AQtg4 >}}
+
+# En français
+
+## Gamification et motivation
+
+Pour [Fidback](https://fidbak.io/)
+
+{{< video https://www.youtube.com/watch?v=RNXPjlHtMaM&t=3880s >}}
+
+## Apprentissage, Motivation et essentialisme psychologique Part 1
+
+Pour [5à7 RH](https://5a7rh.com/)
+
+{{< video https://youtu.be/pbjwIqmlb68 >}}
+
+## Apprentissage, Motivation et essentialisme psychologique Part 2
+
+Pour [5à7 RH](https://5a7rh.com/)
+
+{{< video https://www.youtube.com/watch?v=GkRnnhfxCYw&t=4s >}}
+
+## La place du père avec Adrien Fillon
+
+Pour [thehelpr](https://thehelpr.fr/cours/)
+
+{{< video https://youtu.be/NpuCCbYlkzY >}}
+
+## Le powerpoint, une bonne idée ? Le lien entre compétition et coopération ? Les biais cognitifs et la prise de décision. Comment "vraiment" favoriser la créativité de groupe.
+
+Pour [Fidback](https://fidbak.io/)
+
+{{< video https://youtu.be/FfkzfxBUshs >}}

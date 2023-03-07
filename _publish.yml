@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: c714b4b7-722e-468f-b8fc-060f2db865fe
+      url: 'https://flourishing-palmier-4a133d.netlify.app'

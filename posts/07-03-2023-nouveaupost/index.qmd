@@ -1,0 +1,25 @@
+---
+title: "Numero 1"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Adrien Fillon
+    orcid: 0000-0001-8324-2715
+    affiliation: ERA chair in Science and Innovation Policy & Studies 
+    affiliation-url: https://www.ucy.ac.cy/sinnopsis/ 
+date: 07-03-2023
+categories: [test, R] # self-defined categories
+citation:
+  url: https://linktr.ee/adrienfillon
+image: test.jpg
+---
+
+Ceci est le premier test de billet de blog.
+
+# Newsletter
+Si vous avez apprécié ce billet de blog, vous pouvez vous abonner à ma newsletter:
+<iframe src="https://psychopapers.kessel.media/embed" width="480" height="320"
+    style="border:1px solid #EEE; background:white;"
+    frameborder="0"
+    scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px; width: 90%;"></iframe>
+
+  

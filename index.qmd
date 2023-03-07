@@ -1,0 +1,57 @@
+---
+title: "Adrien Fillon"
+image: profil2.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/adrien-fillon-a78010107/
+      icon: linkedin
+    - text: Twitter
+      href: https://twitter.com/adfillon
+      icon: twitter
+    - text: GitHub
+      href: https://github.com/adrien-fillon
+      icon: github
+    - text: Instagram
+      href: https://www.instagram.com/docteurpapers/
+      icon: instagram
+    - text: Email
+      href: mailto:fillon.adrien@ucy.ac.cy
+      icon: envelope
+    - text: SInnoPSis
+      href: https://www.ucy.ac.cy/sinnopsis/
+    - text: ORCID
+      href: https://orcid.org/0000-0001-8324-2715
+    - text: Linktree
+      href: https://linktr.ee/adrienfillon
+      icon: tree
+---
+# Hi There
+I am Adrien, French researcher in Meta-science. I have a background in applied social psychology and expertise in conducting litterature review and meta-analysis. Besides my work as a researcher, I am also the host of the podcast ["science of doing science"](https://anchor.fm/scienceofdoingscience), a podcast dedicated to meta-science. I have a french Instagram account and newsletter where I talk about news in psychology. Hope you enjoy!
+
+---
+# Education
+2019 – 2022 **Ph.D. in applied social psychology**: Aix-Marseille University (France)
+
+2016 – 2018 **MS in applied social psychology**: Paris Nanterre (France)
+
+2013 – 2017 **BS in psychology**: Paris Nanterre (France)
+
+# Experience
+2022 - 2024 • **Postdoctoral fellow** at [SInnoPSis](https://www.ucy.ac.cy/sinnopsis/) (Cyprus)
+
+2019 - 2022 • **Pedagogical engineer and trainer** in a training center: Orsys
+
+2018 • **Trainer** for AP-HP (Orbis deployment)
+
+2017 - 2018 • Professional traineeship in Korda&Co: Development of pedagogical support for training programs and mindset interventions with managers and staff (530h)
+
+2016 - 2017 • Traineeship in Psychopium: questionnaire design and survey, interview with the staff, writing of summary and reports (150h)
+
+2014 - 2020 • Pedagogical support in psychology in the management coaching company Alsynea
+
+2014 - 2015 • Traineeship in the LAPPS (Parisian laboratory of social psychology) Statistical treatment of political psychological data, Paris Nanterre (70h)
+

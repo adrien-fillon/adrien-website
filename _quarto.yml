@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Adrien Website"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "CV" 
+        href: https://drive.google.com/file/d/1C0K8rZmKy7H0743Q0ppcPpT7HYd_rasH/view?usp=share_link
+      - publications.qmd
+      - talks.qmd
+      - blog.qmd
+  twitter-card: true
+  sidebar:
+    tools:
+      - icon: twitter
+        href: https://twitter.com/adfillon
+      - icon: instagram
+        href: https://www.instagram.com/docteurpapers/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/adrien-fillon-a78010107/
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
