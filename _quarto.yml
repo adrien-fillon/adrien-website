@@ -23,7 +23,9 @@ website:
         href: https://www.instagram.com/docteurpapers/
       - icon: linkedin
         href: https://www.linkedin.com/in/adrien-fillon-a78010107/
-
+comments:
+  giscus:
+    repo: adrien-fillon/adrien-website
 
 format:
   html:
