@@ -10,9 +10,10 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "CV" 
-        href: https://drive.google.com/file/d/1C0K8rZmKy7H0743Q0ppcPpT7HYd_rasH/view?usp=share_link
+        href: https://github.com/adrien-fillon/CV
       - publications.qmd
       - talks.qmd
+      - Podcast.qmd
       - blog.qmd
   twitter-card: true
   sidebar:
@@ -23,9 +24,7 @@ website:
         href: https://www.instagram.com/docteurpapers/
       - icon: linkedin
         href: https://www.linkedin.com/in/adrien-fillon-a78010107/
-comments:
-  giscus:
-    repo: adrien-fillon/adrien-website
+
 
 format:
   html:

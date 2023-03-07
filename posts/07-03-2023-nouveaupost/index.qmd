@@ -11,15 +11,17 @@ categories: [test, R] # self-defined categories
 citation:
   url: https://linktr.ee/adrienfillon
 image: test.jpg
+comments:
+  giscus:
+    repo: adrien-fillon/adrien-website
 ---
 
 Ceci est le premier test de billet de blog.
 
+
 # Newsletter
-Si vous avez apprécié ce billet de blog, vous pouvez vous abonner à ma newsletter:
-<iframe src="https://psychopapers.kessel.media/embed" width="480" height="320"
+
+Si vous avez apprécié ce billet de blog, vous pouvez vous abonner à ma newsletter: <iframe src="https://psychopapers.kessel.media/embed" width="480" height="320"
     style="border:1px solid #EEE; background:white;"
     frameborder="0"
     scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px; width: 90%;"></iframe>
-
-  
