@@ -4,5 +4,14 @@
     "items": [
       "/posts/07-03-2023-nouveaupost/index.html"
     ]
+  },
+  {
+    "listing": "/metanalysis.html",
+    "items": [
+      "/meta-analysis/4typedanalyse/index.html",
+      "/meta-analysis/1questionderecherche/index.html",
+      "/meta-analysis/2rédactionintro/index.html",
+      "/meta-analysis/introduction/index.html"
+    ]
   }
 ]

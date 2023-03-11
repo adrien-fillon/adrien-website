@@ -18,7 +18,6 @@ comments:
 
 Ceci est le premier test de billet de blog.
 
-
 # Newsletter
 
 Si vous avez apprécié ce billet de blog, vous pouvez vous abonner à ma newsletter: <iframe src="https://psychopapers.kessel.media/embed" width="480" height="320"

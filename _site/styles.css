@@ -1,1 +1,14 @@
 /* css styles */
+
+
+.boxinfo {
+  padding: 1em 1em 1em 3em;
+  margin-bottom: 10px;
+  background: var(--bg-box);
+  position:relative;
+  border-width: 3px;
+  border-style: solid;
+  border-color: var(--box-border-color);
+  border-radius: .25rem;
+  opacity: 0.6;
+}

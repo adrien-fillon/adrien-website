@@ -1,0 +1,61 @@
+---
+title: "Question de recherche"
+author:
+  - name: Adrien Fillon
+    orcid: 0000-0001-8324-2715
+    affiliation: ERA chair in Science and Innovation Policy & Studies 
+    affiliation-url: https://www.ucy.ac.cy/sinnopsis/ 
+embed-resources: true
+date: 10-03-2023
+editor: source
+toc: true
+toc-depth: 3
+execute: 
+  echo: false
+  warning: false
+  message: false
+citation: true
+bibliography: references.bib
+link-citations: true
+---
+
+# La question de recherche
+
+La première étape d'une méta-analyse est de se poser une question de recherche.
+Cette question peut-être de la forme "est ce qu'il y a un effet de quelque chose sur quelque chose"
+
+> Mes différentes méta-analyses : 
+  * Est-ce-qu'il y a un effet d'exceptionnalité sur le regret ?
+  * Est ce qu'il y a un effet de la technique "vous êtes libre de" sur la compliance ?
+  * Est ce qu'il y a un effet de la perception que quelqu'un fait quelque chose de mal sur notre inconfort (i.e. est ce qu'il y a un effet d'inconfort vicariant) ?
+  * Est ce qu'il y a un effet de la manipulation du statut socio-économique sur son ressenti ?
+  
+Elle peut également être de la forme "y-a-t'il une relation entre ceci et cela ?"
+
+> mes différentes méta-analyses : 
+* Y-a-t'il une relation entre trait de personnalité et créativité de groupe ?
+* Y-a-t'il une relation entre les facteurs de la personnalité de la triade négative (psychopathie, narcissisme, machiavellisme) ?
+
+On retruve donc en premier les méta-analyses **expérimentales**, qui comparent deux groupes, un groupe avec "l'effet" et un groupe sans l'effet. Traditionnellement, on appelle cela le groupe expérimental et le groupe contrôle, mais dans les méta-analyses, on voit de tout et c'est généralement pas si simple.Néanmoins, l'objectif est systématiquement d'observer la **différence entre deux moyennes**
+En second, on retrouve les méta-analyses **corrélationnelles** qui cette fois s'intéressent à la **relation entre deux variables**. Généralement, elles utilisent des mesures d'échelles, des questionnaires d'où il est possible de tirer une mesure de fiabilité (généralement l'alpha de cronbach). Lorsque l'on va corriger les études grâce à cette mesure de fiabilité, on va alors les appeler **méta-analyses psychométriques** (la nuance est subtile, je vais continuer d'appeller ça des méta-analyses corrélationnelles par la suite).
+
+Ces méta-analyses sont celles que l'on rencontre le plus en psychologie. En psychologie clinique et psychopathologie, on rencontre aussi des méta-analyses de la forme "quels sont les symptômes **associés** avec ce trouble". En ce cas, on fait ce qu'on appelle une méta-analyse avec modélisation en équation structurelle, qui est une variation complexe de la méta-analyse corrélationnelle. On peut aussi faire des méta-analyses où on teste les effets *positifs* par rapport aux effets *négatifs* d'un traitement par exemple. Dans ce cas, notre valeur de référence ne sera pas une moyenne ni une corrélation, mais un Odd Ratio qui a une valeur neutre de 1, entre 0 et 1 quand il y a plus d'effets négatifs que positifs, supérieur à 1 quand les effets positifs sont supérieurs. Ces méta-analyses sont très souvent utilisées en médecine, avec la question "Qu'elle est l'efficacité de ce protocole/médicament par rapport à ses effets secondaires"? 
+
+Enfin, citons deux types de méta-analyses particulières qui se retrouvent dans toutes les disciplines. En premier, les méta-analyses bayésiennes, qui en plus de tester s'il y a un effet, peuvent aussi tester s'il n'y a pas de preuve d'effet (une méta-analyse fréquentiste ne peut que dire si le modèle supporte l'hypothèse d'un effet ou ne supporte pas l'hypothèse d'un effet, il ne peut pas dire qu'il supporte l'hypothèse qu'il n'y a pas d'effet. Oui c'est compliqué mais fondamental : On teste si quelque chose existe par rapport à "on sait pas", on ne teste pas si quelque chose existe par rapport à "ça n'existe pas"). En second, les méta-analyses avec données de participants individuels, dans lequel on a réussi à obtenir les données non pas de chaque étude, mais de chaque participant dans chaque étude. Ce type d'analyse se retrouve dans le domaine bio-médical où on arrive à accéder aux données directes des patients, mais aussi en psychologie dans le cas des réplications de masse: plusieurs laboratoires du monde entier conduisent la même expérimentation et se partagent les résultats des participants pour en faire une méta-analyse avec tous les participants. Ce type de méta-analyse est beaucoup plus précis que les méta-analyses traditionnelles, car elles inclues toutes les données disponibles. Quand c'est possible, elle est toujours à préférer. Et comme si c'était pas déjà complexe, on peut faire des méta-analyses en équation structurelle bayésienne avec donnéesde participants individuels.
+
+Je vous laisse réfléchir à votre question de recherche avant de passer à la partie suivante. C'est bon ? C'est ce qu'on va voir.
+
+---
+Dans l'immense majorité des cas, votre question de recherche est de la forme Y-a-t'il un effet de X sur Y ou une relation entre X et Y. Cependant, sous la forme actuelle sur votre brouillon ou dans votre tête, elle est mauvaise. Désolé, les miennes aussi étaient complètement pétées au début. Pour l'améliorer, il va falloir lire sur le sujet. Existe t'il des revues systématiques ou narratives pas trop anciennes sur le sujet ? Est-ce-qu'il n'y aurait pas des livres que vous pourriez lire pour avoir une bonne connaissance du sujet ?
+Une fois que vous avec une meilleure idée du domaine, votre question devrait avoir évoluée, en étant plus précise. Il est alors temps de contacter les chercheurs de référence sur le sujet pour avoir leur avis. Contacter trois auteurs différents est, à mon avis, un strict minimum. Ce n'est que grâce à leur avis, parfois contradictoires, que vous avancerez vers une bonne question. Et croyez-en mon expérience, si deux sur trois vous dit qu'il n'y a probablement pas assez d'études sur le sujet, ne FAITES PAS la méta-analyse (désolé, c'est mon traumatisme des trois mois fichus en l'air qui remonte de temps en temps).
+
+C'est bon, vous les avez contacté ? Vous avez enfin une question de recherche solide ? Il est grand temps de remplir le tableau suivant :
+
+| Question | Hypothesis | Analysis plan | Rationale for deciding the sensitivity of the test | Interpretation given different outcomes	| Theory that could be shown wrong by the outcomes |
+| ----- |------|-------|------------|------------|--------|
+| Ici se trouve votre première question de recherche | l'hypothèse associée | L'analyse à conduire (analyse principale, modérateur, comment la conduire ?) | Comment décider de si l'effet/la relation est importante ou non ? quels sont les seuils ? | Quelle est la théorie associée |
+| Ne pas oublier les questions relatives aux modérateurs et aux biais de publication ||||||
+
+Ce tableau, que l'on pourra appeler *study design* pourra être utilisé dans le manuscript principal ou dans des ressources supplémentaires. Une fois créé, il faudra le modifier le moins possible, et toujours écrire/justifier pourquoi vous avez décidé de le modifier.
+
+

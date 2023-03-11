@@ -1,0 +1,125 @@
+---
+title: "Rédaction introduction"
+author:
+  - name: Adrien Fillon
+    orcid: 0000-0001-8324-2715
+    affiliation: ERA chair in Science and Innovation Policy & Studies 
+    affiliation-url: https://www.ucy.ac.cy/sinnopsis/ 
+embed-resources: true
+date: 07-03-2023
+editor: source
+toc: true
+toc-depth: 3
+execute: 
+  echo: false
+  warning: false
+  message: false
+citation: true
+bibliography: references.bib
+link-citations: true
+css: styles.css
+code-fold: false
+format:
+  html:
+    theme: [cosmo, style.html]
+    code-copy: true
+---
+
+# Avant la rédaction
+
+En premier, assurez vous d'avoir rempli le tableau "study design" au chapitre précédent, il sera votre ligne de guide pour cette introduction.
+En second, réfléchissez à votre fonctionnement d'équipe : qui écrira l'introduction ? Est ce qu'ils ont tous l'accès pour écrire ? Comment se répartir le travail ? Pensez aux contrôles de version : n'oubliez pas que si vous êtes plusieurs , vous allez faire des modifications que vous allez regretter. Cliquez sur "suivi des modifications" sur word, et à chaque étape critique, faite un copier coller de votre document word "MA_début intro", "MA_intro_avec_revuelitérrature", "MA_intro_revueparjeanpierre". Et archivez (ne supprimez pas!) les anciennes versions.
+
+Ok on est parti.
+
+Sachez que ce que je vais vous partager est une suggestion d'écriture. Comme les suggestions de présentation sur les boîtes de supermarché, c'est moche, ça a pas de style, mais ça *donne une idée*. Alors prenez, modifiez, faites à votre sauce.
+
+Les suggestions d'écritures sont celes adaptés des modèles que nous avons réalisés avec Siu Kit Yeung, Gilad Feldman et de nombreux collaborateurs internationaux, nous les avons testés sur nos méta-analyses, ça fonctionne bien. N'oubliez pas de nous citer dans vos méta-analyses, ça nous donne de la force pour continuer.
+
+Voici les liens pour pouvoir utiliser l'ensemble de nos modèles :
+[ref meta expé]
+[ref meta corr]
+
+# Début de l'introduction
+
+Le début de l'introduction est censé poser le contexte de la question que vous vous posez : Quel est le phénomène étudié, quand a t'il été mis en évidence, par qui, comment ? On pose les bases.
+
+Méta-analyse expérimentale
+
+::: {.boxinfo}
+
+{{< fa pen >}}
+[Phenomenon name] is [descriptions of the phenomenon with example(s) and the meaning of terms (both the independent variable and dependent variable(s))]. [Phenomenon name] is influential / applicable to … [1) Discuss the theoretical importance of investigating the phenomenon, 2) Discuss the impact and implications of the phenomenon (with in-text citations), for example but not always necessary, you may consider mentioning the domains/settings that the phenomenon is applied to. 3) If applicable, specify and describe the population the phenomenon is applied to (Appelbaum et al., 2018).]. However, some studies have [failed to find support / shown mixed findings / shown findings in opposite direction] for the [Phenomenon name], raising doubts regarding the reliability and generalizability of the phenomenon (e.g. [in-text citations]). Scholars have questioned various aspects of the empirical studies and/or theories explaining the phenomenon, such as [brief descriptions of criticisms – e.g. research method, generalizability, theoretical arguments proposed by empirical studies, please provide in-text citations].
+
+:::
+
+Méta-analyse corrélationnelle
+
+::: {.boxinfo}
+{{< fa pen >}}
+
+In the past [duration of time, e.g., number of decades], there has been a growing interest of research in [construct name 1]. [construct name 1] refers to [description of the construct] and has been associated with [descriptions of its associates]. [construct name 1] is important to our understanding of [describe the impact and implications of the construct], and particularly, has been linked to [construct name 2 or relation with this construct], [brief description of the construct and why such connection is important and interesting].
+Studies so far have provided preliminary evidence regarding the relationship between [construct name 1] and [construct name 2]. For example, [describe studies that investigated the correlation between the constructs of your interest]. Nonetheless, the relative strength and direction of these associations tended to vary across [sub-construct, operationalization, sample demographics, etc.]. For example, [describe inconsistent findings in the literature]. So far, there have been no systematic mappings of the association between [construct name 1] and [construct name 2] to help form a unified framework connecting these two constructs and reconcile conflicts in concepts and empirical findings.
+
+:::
+
+
+Une fois les bases posées, n'hésitez pas à indiquer votre problématique clairement : *The present registered meta-analysis investigation aims to contribute to the literature by examining the role of XXX*. Et passez ensuite aux définitions.
+
+Ici, si vous êtes dans une méta-analyse expérimentale, votre objectif va être de définir la théorie si ce n'est fait avant, l'effet général et particulier, et sa relation avec les résulats qu'il produit (par exemple, le médicament sur le symptôme). Quelles sont les raisons de croire à cette théorie, quelles sont les conséquences de la théorie, bref, faut broder.
+Si vous êtes dans une méta-analyse corrélationnelle, il faut faire la même chose, mais en commençant par définir un construit, puis l'autre, puis la relation entre les deux construits.
+
+
+Dans les deux cas, des propositions son faites dans nos modèles, mais il est clair que c'est une partie plus *subjective* de l'article, prenez ce qu'il vous plait dedans. 
+
+Si votre méta-analyse expérimentale se fait sur différents résultats (i.e., est ce que mon effet étudié a un impact sur différentes émotions, ou sur des émotions et des cognitions ou des comportements), indiquez bien l'ensemble des éléments théoriques motivants votre recherche. De même si vous faites une méta-analyse corrélationnelle où il y a des construits (trait de personnalité) et sous construits (Ouverture à l'expérience, Conscienciosité, Névrosisme etc.).
+
+Dans une grande partie des cas, il est intéressant de faire un tableau récapitulatif des conséquences de l'effet expérimental, et des sous construits de chaque construit corrélés. Un tableau serait de cette forme :
+
+::: {.boxinfo}
+{{< fa pen >}}
+| Subconstruct | Definition | Literature | Description of results |
+| --- | --- | --- | --- |
+| Ouverture à l'expérience | Imagination, sensibilité à l'art ... | Schilpzand et al. (2011) | "As expected, we found that openness to experience was important for ..." |
+: MA corrélationnelle : *Commonly used measures of [construct1]*
+
+
+| Outcome | Definition | Literature | Description of results |
+| -- | --- | --- | ----- |
+| Regret | Le degré auquel quelqu'un ressent du regret pour un évènement négatif | Kahenman & Tversky (1986) | "When there is a mismatch, and thus a poor consistency-fit, decision-makers experience more regret than when there is not a mismatch.”"  |
+: MA expérimentale : *Outcomes of [effect]*
+
+:::
+
+Cela permet de regrouper l'ensemble des définitions précises au même endroit, laissant plus de place dans le texte pour parler des relations entre construits ou de la théorie liée à un effet particulier.
+
+# Hypothèses
+
+Une fois les différents construits/effets/relations/résultats/modérateurs décrits, il est temps de passer aux hypothèses.
+
+On distingue ici les hypothèses confirmatoires et exploratoires. Les hypothèses doivent être directionnelles (positives ou négatives).
+
+Voici un exemple dans le cas des méta-analyses expérimentales
+
+
+::: {.boxinfo}
+{{< fa pen >}}
+
+Our first key aim was to examine the overall effect for [Phenomenon name]. We expect the evidence to be in support of [Phenomenon name], with an effect [meaningfully different from the null (null not included in confidence intervals) and/or specify the expected range of effect size, optional]
+
+* H1a: [Hypothesis 1a – Dependent variable 1]
+
+* H1b: [Hypothesis 1b – Dependent variable 2]
+
+* H1c: [Hypothesis 1c – Dependent variable 3])
+
+Confirmatory Moderators  
+
+[Description of related literature of H2]
+
+* H2: [Hypothesis 2 – e.g. Possible Moderator 1: e.g. Phenomenon name is stronger under Category 1 conditions, compared to Category 2 and Category 3 conditions]
+
+[Description of related literature of H3]
+
+* H3: [Hypothesis 3, e.g. Possible Moderator 2: Phenomenon name is stronger under Category 1 conditions, compared to Category 2 and Category 3 conditions]
+:::
