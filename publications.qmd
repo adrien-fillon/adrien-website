@@ -1,6 +1,12 @@
 ---
 title: "Publications"
 comments: false
+bibliography: references.bib
+---
+
+---
+nocite: |
+  @yeung_experimental_2021, @fillon_correlational_2021, @fillon_how_2021, @fillon_asymmetries_2021, @jaubertsara_vicarious_2020, @fillon_effectiveness_2020, @fillon_personal_2021, @fillon_impact_2021, @brick_self-interest_2021, @parsons_community-sourced_2022, @fillon_exceptionality_2022, @fillon_people_2022, @fillon_evaluations_2022, @jaubert_dissonance_2021, @fillon_slow_2021,@fillon_colloque_2021
 ---
 
 # 2022

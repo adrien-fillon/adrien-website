@@ -1,8 +1,24 @@
 ---
-title: "Méta-analyse(FR)"
-listing: 
-  contents: meta-analysis # all Quarto docs in the `posts` directory will be included on your listing page
-  type: grid # or `default` or `table`; each type has its own set of yaml options to include
-  sort: "date desc" # can also sort on more than one field
+project:
+  type: book
+
+book:
+  title: "Guide pratique aux méta-analyses"
+  author: "Adrien Fillon"
+  date: "03/14/2023"
+  chapters:
+    - metaanalysis/avantpropos.qmd
+    - metaanalysis/question.qmd
+    - metaanalysis/intro.qmd
+
+bibliography: metaanalysis/references.bib
+
+format:
+  html:
+    theme: cosmo
 ---
 
+```{r}
+  #epub:
+   # cover-image: cover.png
+```

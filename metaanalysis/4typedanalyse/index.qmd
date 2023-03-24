@@ -1,0 +1,4 @@
+
+```{r}
+# méta-analyse expérimentale méta-analyse corrélationnelle méta-analyse SEM #méta-analyse individual participant méta-analyse bayésienne
+```

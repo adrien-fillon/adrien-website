@@ -17,7 +17,7 @@ library(stringr)
 library(lubridate)
 
 
-myfeed<-tidyfeed("https://anchor.fm/s/da1c0e78/podcast/rss")
+myfeed<-tidyfeed("https://anchor.fm/s/dcb1f044/podcast/rss")
 
 my_feed_data <- myfeed |>
   select(Headline = item_title, Date = item_pub_date, URL = item_link, 
