@@ -18,7 +18,7 @@ comments:
 
 En 2017, Richard Thaler et Cass Sunstein reçoivent le prix d'économie en hommage à Nobel pour leurs travaux sur les nudges, la méthode douce pour inspirer la bonne décision.
 
-"Enfin un Nobel facile à comprendre ! " selon les Echos.
+"Enfin un Nobel facile à comprendre !" selon les Echos.
 
 ![Nudge](nudge.jpg)
 
