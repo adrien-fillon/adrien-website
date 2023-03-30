@@ -9,6 +9,10 @@ csl: apa-6th-edition.csl
 nocite: |
   @yeung_experimental_2021, @fillon_correlational_2021, @fillon_how_2021, @fillon_asymmetries_2021, @jaubertsara_vicarious_2020, @fillon_effectiveness_2020, @fillon_personal_2021, @fillon_impact_2021, @brick_self-interest_2021, @parsons_community-sourced_2022, @fillon_exceptionality_2022, @fillon_people_2022, @fillon_evaluations_2022, @jaubert_dissonance_2021, @fillon_slow_2021,@fillon_colloque_2021
 ---
+# 2023
+
+*Fillon, A., *Strauch, L., & Feldman, G. (2023). Evaluations of action and inaction decision-makers in risky decisions resulting in negative outcomes: Inaction agents are preferred to and perceived as more competent and normative than action agents. Collabra:Psychology.
+[Preprint](https://www.researchgate.net/publication/369593935_Evaluations_of_action_and_inaction_decision-makers_in_risky_decisions_resulting_in_negative_outcomes_Inaction_agents_are_preferred_to_and_perceived_as_more_competent_and_normative_than_action_agents) [Open materials/data/code](https://osf.io/a8e4d/) [Open access]
 
 # 2022
 
@@ -31,8 +35,6 @@ Fillon, A.A., Girandola, F., Bonnardel, N., & Souchet, L. (2023) ["People system
 Fillon, A.A., Girandola, F., Bonnardel, N., Kenworthy, J., & Souchet, L. (2023) [Personal factors and group creativity characteristics: A correlational meta-analysis](https://psyarxiv.com/4br6a/download?format=pdf)
 
 Fillon, A.A., Souchet, L. Pascual, A., Girandola, F. (accepted by meta psychology) [The effectiveness of the "But-you-are-free" technique: Meta-analysis and re-examination of the technique](https://psyarxiv.com/3ds26/download?format=pdf)
-
-Fillon, A.A., Strauch, L., & Feldman, G. (2023) [Evaluations of action and inaction decision-makers in risky decisions resulting in negative outcomes: Inaction agents are preferred to and perceived as more competent and normative than action agents](https://www.researchgate.net/profile/Gilad-Feldman/publication/362887838_Evaluations_of_action_and_inaction_decision-makers_in_risky_decisions_resulting_in_negative_outcomes_Inaction_agents_are_preferred_to_and_perceived_as_more_competent_and_normative_than_action_agents/links/6343e7f8ff870c55ce162ae5/Evaluations-of-action-and-inaction-decision-makers-in-risky-decisions-resulting-in-negative-outcomes-Inaction-agents-are-preferred-to-and-perceived-as-more-competent-and-normative-than-action-agents.pdf)
 
 Fillon, A.A., Chandrashekar, P., & Feldman, G. (2023) [Asymmetries in attributions of blame and praise, intent, and causality:Free will, responsibility, and the side-effect effect](https://www.researchgate.net/publication/356831845_Asymmetries_in_attributions_of_blame_and_praise_intent_and_causality_Free_will_responsibility_and_the_side-effect_effect)
 
