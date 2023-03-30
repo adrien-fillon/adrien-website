@@ -10,7 +10,7 @@ date: 07-03-2023
 categories: [Nudge, meta-science] # self-defined categories
 citation:
   url: https://linktr.ee/adrienfillon
-image: test.jpg
+image: test1.jpg
 comments:
   giscus:
     repo: adrien-fillon/adrien-website
