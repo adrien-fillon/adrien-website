@@ -1,0 +1,73 @@
+---
+title: "L'histoire de la formation professionnelle"
+description: "Ou comment le MEDEF nous a bien douillé"
+author:
+  - name: Adrien Fillon
+    orcid: 0000-0001-8324-2715
+    affiliation: ERA chair in Science and Innovation Policy & Studies 
+    affiliation-url: https://www.ucy.ac.cy/sinnopsis/ 
+date: 17-05-2023
+categories: [Formation] # self-defined categories
+citation:
+  url: https://linktr.ee/adrienfillon
+image: formation.jpeg
+comments:
+  giscus:
+    repo: adrien-fillon/adrien-website
+---
+
+Tout commence en 1833. L'industrialisation souffre d'un gros problème : 2/3 des Français sont illettrés. Le 4 juillet, le gouvernement rend obligatoire le cours pour adulte dans chaque école primaire.
+	"Aussi longtemps que l’école primaire ne reçoit pas la totalité des enfants d’un pays où les reçoit trop peu, il est nécessaire de prendre des mesures pour que l’instruction qui leur a manqué dans l’âge scolaire leur soit offerte dans les années qui suivent"
+Ce sont des cours bénévoles, le soir et le dimanche - et remplacent souvent l'heure de la messe.
+
+On voit ensuite apparaitre trois courants : l'éducation populaire, formation technique des adultes et l'éducation ouvrière. Je passe donc rapidement sur l'éducation populaire, une partie faite par l'église sur les valeurs morales, et une autre par la ligue de l'enseignement contre... l'église justement, et la courte période de l'étude par les intellectuels (grosso modo de 1902 à 1905).
+La formation technique des adultes, elle, est surtout destinée aux ingénieurs et industriels qui veulent se perfectionner : le CNAM (1829) est fondé dans ce but (en élargissant son public par la suite), tout comme polytechnique (1830).
+Pour l'éducation ouvrière, elle est faite par et pour les ouvriers, notamment dans les "bourses du travail", des organisations syndicales créées à partir de 1887 proposant des cours du soir d'enseignement général et technique.
+
+En 1914, l'illettrisme n'est plus que de 3%. Les cours du soir disparaissent, faute de besoin. Pour le reste, ça marche toujours du tonnerre, en particulier l'éducation populaire. Les congés annuels de 1936 sont aussi l'occasion d'éduquer au voyage (qui forme la jeunesse), au loisir, à la culture.
+
+Enfin, l'éducation ouvrière est la principale forme d'éducation alternative pour adulte : en 1920, les écoles du parti communistes font des cours, en 1932, les universités ouvrières apparaissent, accessibles à tous publics. On a alors un public de 12 000 ouvriers entre 1932 et 1938.
+
+Ce moment est crucial pour la naissance de la formation professionnelle en France. En effet, la crise de 29 amène deux problèmes : un fort chômage et en même temps une pénurie de qualification dans les secteurs de pointe : il faut former rapidement des personnes pour répondre à ces deux problèmes.
+Les industries minières et métallurgiques, suivie par des syndicats, vont amener à la création de la FPA, la formation professionnelle accélérée, subventionnée par l'état en 1935. 
+Pour l'industrie de pointe, les grosses industries vont créer un appareil privé de formation, appelée CEGOS (1926, Compagnie générale de l’organisation scientifique).
+On a donc à cette période la possibilité, pour les grosses entreprises, de former rapidement, avec des subventions de l'État, des ouvriers ou ingénieurs pour les amener à devenir plus qualités.
+
+Et puis arrive la guerre. Après 1945, les besoins de cours du soir reviennent, pour alphabétiser la main-d'oeuvre venue des colonies.
+
+La FPA redouble d'effort. Il faut "Former en quelques mois des manoeuvres spécialisés pour les jeter immédiatement dans le compartiment de la production qui en a besoin".
+
+En 1949 nait l'anifrmo, l'ancètre de l'AFPA (il changera de nom en 66) qui a pour objectif d'organiser la formation professionnelle par le ministère du travail, les syndicats patronaux et les syndicats ouvriers.
+
+En 1948 apparait le CAP, la possibilité, par des cours du soir, d'acquérir des compétences et une qualification supérieure. En 1952 le CNAM ouvre des centres régionaux, en 1956 est créé l'examen spécial d'entrée à l'université.
+Les entreprises vont créer des cours en interne - de même que la fonction publique à travers ses concours.
+L'éducation populaire et l'éducation ouvrière vont presque disparaitre. Seule restera une formation syndicale.
+
+Le tournant s'effectue en 1955. Les compétences acquises à l'école ne suffisent plus pour être compétitif, et beaucoup de personnes changent de métier au cours de leur vie. La formation ne sert plus à palier un déficit, elle sert à changer de status. En 1966, la loi-programme sur la formation professionnelle crée le droit de la formation dans le droit du travail en proposant 1) un droit d'absence pour formation et 2) une convention. Ce congé pour formation ne sera effectif qu'en 1971. En particulier, ce congé sera financé par l'entreprise. Si on peut désormais se former sur son temps de travail, la question fondamentale reste posée : est-ce que la formation est au service de l'entreprise ou de l'individu ?
+Je vous rassure, cette période incroyable où les citoyens vont pouvoir changer de vie grâce à la formation ne va pas durer longtemps. Les entreprises se rendent compte que les travailleurs se forment à des métiers moins pénibles et mieux rémunérés, tandis que l'état se rend compte que ça pose soucis de former que des gens qui travaillent déjà et que ça serait bien de former aussi les sans-emplois.
+
+En 1982, l'état explique que la formation est un investissement qui attend un retour sur investissement. 
+La formation doit produire des compétences qui servent à l’entreprise pour conserver et gagner des marchés et à l’individu pour assurer ou gagner sa place sur le marché de l’emploi.
+L'état et les entreprises vont avoir de plus en plus recours à l'alternance.
+
+Le bilan de compétence est créé en 1991, La loi quinquennale du 20 décembre 1993 a fait de la formation professionnelle l’objet d’un co-investissement « entreprises-salariés », ces derniers devant assurer par eux-mêmes la gestion de leurs projets et de leurs compétences.
+
+J'arrive donc à la période actuelle.
+On est donc au début des années 2000. Les conventions de branche imposent aux entreprises de former leurs employés. C'est l'employé qui demande à prendre son congé individuel de formation, ce qui ne peut pas être refusé par l'entreprise. L'employé peut cumuler ses congés de formation autant qu'il veut, et prendre 2 ou 3 ans de formation à 50 ans pour faire un autre métier.
+
+Pour changer ça, en 2004 le gouvernement créé le droit individuel à la formation (DIF). Ce droit est radicalement différent du congé de formation car il impose des maximums. On ne peut que se former 20h par an, cumulable 6 ans (donc 120h) avec une limite maximale de 150h. Finit les formations pour changer de métier, on doit faire des formations "courtes" tous les ans, sur des compétences spécifiques. Notez que c'est quand même toujours à l'initiative de l'employé qui décide de sa formation. Néanmoins, on comprend ici que l'objectif est de forcer les employés à développer des compétences qui ne vont pas les amener à changer de métier. Autre point important : l'entreprise peut refuser la formation (ce qui n'est pas le cas du congé formation). 
+
+En 2014, ce DIF est remplacé par le CPF avec un seul changement, mais qui change tout : les "heures" de formation sont transformés en euros - à hauteur de 500€ l'année et un plafond maximal de 5000€. 
+Ce remplacement est une volonté de patrons, qui ne veulent pas former la petite main-d'œuvre et préfère former les managers et ouvriers déjà qualité. 
+	D'après l'économiste Didier Gelot « le CPF sera dorénavant monétisé, alors qu’il était jusqu’à présent comptabilisé en heures. Ainsi, la probabilité pour un salarié de se former va être divisée par deux, voire par trois pour les non-qualifiés. Avant la réforme, un salarié disposait de cinq mille deux cents à quatorze mille euros de « capital » pour financer sa formation, contre deux mille deux cents à six mille euros à la suite de la réforme.
+Mais ce n'est pas suffisant. Il reste le congé individuel de formation qui embête beaucoup des patrons, avec des employés qui peuvent partir en congé formation quand ils le souhaitent même s'ils doivent payer eux-mêmes. C'est donc en 2018 que le CIF disparait, remplacé par le "projet de transition professionnel" qui permet au MEDEF de s'assurer que l'employé n'utilise pas ce congé pour une reconversion qualifiante.
+
+On est donc en 2023 et si on compare avec 1986, il ne reste plus grand-chose de l'idéal de la formation continue. Les personnes peu qualifiées, qui n'arrivent pas à cotiser pour leurs droits, ne peuvent pas se former. Les personnes qui le peuvent sont maintenant entièrement soumises à leur entreprise pour effectuer leur formation, que cela soit dans le choix, très restreint, de leur formation, ou dans l'acceptation de cette formation, soumis à leur responsable hiérarchique. Le Medef a gagné :(
+Ah et Bruno le Maire veut quand même faire payer les travailleurs 30% pour le CPF. Payer pour enrichir son patron, voilà une bonne idée.
+
+
+
+Si vous avez apprécié ce billet de blog, vous pouvez vous abonner à ma newsletter: <iframe src="https://psychopapers.kessel.media/embed" width="480" height="320"
+    style="border:1px solid #EEE; background:white;"
+    frameborder="0"
+    scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; height: 75px; width: 90%;"></iframe>
