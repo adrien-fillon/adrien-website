@@ -16,6 +16,7 @@ website:
       - Podcast.qmd
       - metaanalysis.qmd
       - blog.qmd
+      - Newsletter.qmd
   twitter-card: true
   sidebar:
     tools:
